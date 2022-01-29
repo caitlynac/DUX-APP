@@ -36,5 +36,8 @@ SF Symbols - https://developer.apple.com/sf-symbols/
 GitHub - https://github.com/
  
 # References
- 
+<ul>
+  <li>FBLA-PBL - www.fbla.org</li>
+  <li>iOS Academy - www.iosacademy.io </li>
+</ul>
  
