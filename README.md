@@ -20,3 +20,19 @@ DUX is a mobile application for iOS devices. To login users must input their sch
 
 # How To Run
 This mobile application was developed in Swift using Xcode 13 and it’s iPhone simulator on MacOS. Included in the App folder is the xcode.proj file and when downloaded, the app can simply be downloaded onto any iOS device using an Apple computer. 
+
+# Instructions 
+XCode Requirements 
+<ul>
+ <li>Xcode 13 for Mac</li>
+</ul>
+In order to build the app, you will need Xcode 13. When Xcode is opened all necessary files to run the app will be downloaded. To install you will need a lightning cable to plug in the phone to the computer. 
+# Resources Used
+SF Symbols - https://developer.apple.com/sf-symbols/
+<p> Message UI - https://developer.apple.com/documentation/messageui
+<p> SafariServices - https://developer.apple.com/documentation/safariservices
+# Software/Services Used
+GitHub - https://github.com/
+# References
+ 
+ 
