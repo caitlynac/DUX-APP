@@ -31,8 +31,10 @@ In order to build the app, you will need Xcode 13. When Xcode is opened all nece
 SF Symbols - https://developer.apple.com/sf-symbols/
 <p> Message UI - https://developer.apple.com/documentation/messageui
 <p> SafariServices - https://developer.apple.com/documentation/safariservices
+ 
 # Software/Services Used
 GitHub - https://github.com/
+ 
 # References
  
  
